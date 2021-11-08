@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 Purpose:
-
+    This is our first challenge. We used provided code from a marketing company's site that is used for online business advertise needs and social media experiences. 
 
 Built with:
 * HTML
@@ -9,30 +8,12 @@ Built with:
 
 Website:
 
-https://cclund444.github.io/c06weatherDashboard/
+https://cclund444.github.io/c01codeRefactor/
 
-Contibution:
-
-Caleb Lund
-(575) 937-3648
-calebcoylund444@gmail.com
-=======
-Purpose:
-
-
-Built with:
-* HTML
-* CSS
-* JavaScript
-
-Website:
-
-https://cclund444.github.io/c06weatherDashboard/
-
-Contibution:
+Contributor:
 
 Caleb Lund
 (575) 937-3648
 calebcoylund444@gmail.com
->>>>>>> feature/contact-form
-https://github.com/cclund444
+
+<img src = "c01ScreenShot.jpg" />
